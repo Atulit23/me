@@ -250,6 +250,15 @@ function Projects() {
             domains: ["javascript", "react.js", "LLAMA", "node.js"]
         },
         {
+            name: "Moodingo",
+            date: "Sept 2024",
+            link: "https",
+            description: [
+                "An AI powered music generator app that not only generates spotify playlists based on your music taste but also provides a psych analysis on you based on your music taste.",
+            ],
+            domains: ["javascript", "react.js", "gemini", "node.js"]
+        },
+        {
             name: "PDF Editor",
             date: "Oct 2023",
             link: "",
