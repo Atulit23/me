@@ -16,7 +16,7 @@ export class Terminal extends Component {
             PDPU: ["Sem-5"],
             books: ["Eric-Jorgenson_The-Almanack-of-Naval-Ravikant.pdf", "Elon Musk: How the Billionaire CEO of SpaceX.pdf", "The Laws of Human Nature.pdf", "The_Magic_of_Thinking_Big.pdf"],
             skills: ["Web development", "React.js", "Node.js", "React Native", "Express.js", "SQL", "Machine Learning", "Deep Learning", "App Development"],
-            projects: ["AI Legal Assistant", "PDF Editor", "Browser Extension", "Zen Zone", "Misleading Info Detection", "GPT from scratch"],
+            projects: ["AI Legal Assistant", "Moodingo", "PDF Editor", "Browser Extension", "Zen Zone", "Misleading Info Detection", "GPT from scratch"],
             interests: ["Software Engineering", "Physics", "Chess", "Game Dev"],
             languages: ["Javascript", "C++", "C#", "C", "Python"],
         };
