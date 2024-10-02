@@ -252,11 +252,12 @@ function Projects() {
         {
             name: "Moodingo",
             date: "Sept 2024",
-            link: "https",
+            link: "https://moodingo.vercel.app",
             description: [
                 "An AI powered music generator app that not only generates spotify playlists based on your music taste but also provides a psych analysis on you based on your music taste.",
             ],
-            domains: ["javascript", "react.js", "gemini", "node.js"]
+            domains: ["javascript", "react.js", "gemini", "node.js"],
+            type: "other"
         },
         {
             name: "PDF Editor",
