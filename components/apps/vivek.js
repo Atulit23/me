@@ -266,7 +266,7 @@ function Projects() {
             description: [
                 "Created a fully functional PDF Editor in ReactJS, more or less from scratch, user could draw shapes, add text, relocate the shapes, add images on multiple pages and download the updated PDF. I built this for my internship.",
             ],
-            domains: ["javascript"],
+            domains: ["javascript", "react.js"],
             type: "other"
         },
         {
